@@ -143,6 +143,11 @@ Si necesitas actualizar manualmente:
 📧 [afbritto@nauta.cu](mailto:afbritto@nauta.cu)  
 📱 +53 52418155
 
+### Desarrollador de la API
+
+**Brian Martínez Rodríguez**
+[@brianmrdev](https://t.me/brianmrdev)
+
 ## ❓ Preguntas Frecuentes
 
 ### ¿Necesito internet para usar la app?
