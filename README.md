@@ -1,20 +1,30 @@
 # 📱 Legislación Cubana
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/tu-usuario/legislacion-cubana/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yakovyakov/legislacioncubana/releases)
 [![Android](https://img.shields.io/badge/Android-5.0%2B-brightgreen.svg)](https://www.android.com/)
-[![Download](https://img.shields.io/badge/Download-APK%20Latest-success.svg)](https://github.com/tu-usuario/legislacion-cubana/releases/latest)
+[![Download](https://img.shields.io/badge/Download-APK%20Latest-success.svg)](https://github.com/yakovyakov/legislacioncubana/releases/latest)
 
 Aplicación móvil oficial para acceder de forma rápida, precisa y  organizada a las normas jurídicas publicadas en la Gaceta Oficial de  Cuba. Su diseño dinámico permite buscar por múltiples campos,  facilitando el trabajo de juristas, estudiantes y ciudadanos que necesitan consultar la legislación de manera ágil y confiable.
+
+## 🖼️ Vista Previa
+
+| Pantalla Principal | Búsqueda Avanzada | Resultados |
+|:------------------:|:-----------------:|:----------:|
+| <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-main.png" width="200" alt="Pantalla principal"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-search.png" width="200" alt="Búsqueda avanzada"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-results.png" width="200" alt="Resultados"> |
+
+| Detalle Documento | Acerca de | Actualizaciones |
+|:-----------------:|:---------:|:---------------:|
+| <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-document.png" width="200" alt="Detalle de documento"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-about.png" width="200" alt="Acerca de"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-updates.png" width="200" alt="Actualizaciones"> |
 
 ## 📥 Descargar
 
 ### Última Versión
 
-**v1.0.0** - [Descargar APK](https://github.com/tu-usuario/legislacion-cubana/releases/download/v1.0.0/legislacion-cubana-v1.0.0.apk)
+**v1.0.0** - [Descargar APK](https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/app-arm64-v8a-release.apk)
 
 ### Versiones Anteriores
 
-🔍 [Ver todas las versiones](https://github.com/tu-usuario/legislacion-cubana/releases)
+🔍 [Ver todas las versiones](https://github.com/yakovyakov/legislacioncubana/releases)
 
 ## 🚀 Características
 
@@ -160,9 +170,9 @@ La app te notificará automáticamente. También puedes verificar manualmente en
 ---
 
 **📱 Legislación Cubana v1.0.0**  
-**🗓️ Fecha de Release:** 19 de Febrero, 2025  
-**📦 Tamaño APK:** ~25 MB  
-**🔗 Descarga:** [v1.0.0 APK](https://github.com/tu-usuario/legislacion-cubana/releases/download/v1.0.0/legislacion-cubana-v1.0.0.apk)
+**🗓️ Fecha de Release:** 19 de Noviembre, 2025  
+**📦 Tamaño APK:** ~20 MB  
+**🔗 Descarga:** [v1.0.0 APK](https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/app-arm64-v8a-release.apk)
 
 ---
 © 2025 Todos los derechos reservados
