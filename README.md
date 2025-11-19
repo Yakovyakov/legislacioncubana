@@ -8,13 +8,13 @@ Aplicación móvil oficial para acceder de forma rápida, precisa y  organizada 
 
 ## 🖼️ Vista Previa
 
-| Pantalla Principal | Búsqueda Avanzada | Resultados |
+| Pantalla Principal | Resultados | Detalle Documento |
 |:------------------:|:-----------------:|:----------:|
-| <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-main.png" width="200" alt="Pantalla principal"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-search.png" width="200" alt="Búsqueda avanzada"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-results.png" width="200" alt="Resultados"> |
+| <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-main.png" width="200" alt="Pantalla principal"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-results.png" width="200" alt="Resultados"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-document.png" width="200" alt="Detalle de documento"> |
 
-| Detalle Documento | Acerca de | Actualizaciones |
-|:-----------------:|:---------:|:---------------:|
-| <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-document.png" width="200" alt="Detalle de documento"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-about.png" width="200" alt="Acerca de"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-updates.png" width="200" alt="Actualizaciones"> |
+| Acerca de | Actualizaciones |
+|:---------:|:---------------:|
+| <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-about.png" width="200" alt="Acerca de"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.0.0/screenshot-updates.png" width="200" alt="Actualizaciones"> |
 
 ## 📥 Descargar
 
