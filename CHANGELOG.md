@@ -2,7 +2,29 @@
 
 Registro de todas las versiones publicadas de Legislación Cubana.
 
-## [1.0.0] - 2025-02-19
+## [1.0.1] - Noviembre 2025 (Próxima)
+
+### 🛠️ Correcciones y Mejoras
+
+#### ✨ Nuevo
+
+- **APK universal** que funciona en todos los dispositivos
+- **Nuevo icono** de aplicación
+
+#### 🔧 Ajustes
+
+- **Enlace de Telegram** actualizado en sección de contacto
+- **Enlace a sitio web** actualizado en sección de contacto
+- **Eliminadas siglas** de emisoras en visualización de documentos
+- **Mejoras de rendimiento** en dispositivos de gama baja
+
+#### 📱 Compatibilidad Expandida
+
+- **universal**: Todas las arquitecturas
+
+----
+
+## [1.0.0] - 2025-11-19
 
 ### 🎉 Lanzamiento Inicial
 
