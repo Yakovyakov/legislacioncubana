@@ -2,7 +2,31 @@
 
 Registro de todas las versiones publicadas de Legislación Cubana.
 
-## [1.0.1] - Noviembre 2025 (Próxima)
+## [1.1.0] - 2025-12-12
+
+### 🚀 Nuevas Características
+
+- **Seguridad OTA**: Sistema de verificación de firmas digitales ECDSA para `latest.json`, reemplazando SSL Pinning.
+- **Modo oscuro**: Soporte completo con selector manual (claro/oscuro/sistema).
+- **Mensajes de Compartición**: Contactos oficiales de AFBRITTO añadidos al compartir documentos sin enlace público.
+
+### 🐛 Correcciones
+
+- **Almacenamiento**: Migración del directorio de descargas al caché de la app, resolviendo errores `ENOENT` en Android 11+.
+- **Interfaz**: Corrección de solapamiento del teclado virtual con campos de formulario.
+- **Rendimiento**: Optimización del componente `DocumentCard` eliminando renders innecesarios.
+
+### 🔧 Cambios Técnicos
+
+- **Arquitectura**: Nuevo módulo nativo Kotlin (`UpdateVerifierModule`) para verificación ECDSA.
+- **Red**: Configuración actualizada para permitir HTTP en desarrollo.
+
+### 📋 Notas de Actualización
+
+- **Desarrolladores**: Configurar servidor para firmar `latest.json` con clave privada ECDSA.
+- **Usuarios**: Actualización necesaria para recibir actualizaciones seguras. Mejoras en fluidez y compartición.
+
+## [1.0.1] - Noviembre 2025
 
 ### 🛠️ Correcciones y Mejoras
 
@@ -72,7 +96,7 @@ Registro de todas las versiones publicadas de Legislación Cubana.
 - Optimizada para móviles y tablets
 - Múltiples densidades de pantalla
 
----
+----
 
 ## Información Técnica
 
@@ -86,7 +110,7 @@ Seguimos [Versionado Semántico](https://semver.org/):
 
 ### Soporte
 
-- **Versión actual**: 1.0.0
+- **Versión actual**: 1.1.0
 - **Versión mínima de Android**: 5.0 (API 21)
 - **Arquitecturas soportadas**: arm64-v8a
 
@@ -98,8 +122,8 @@ Cada release incluye:
 - ✅ Changelog detallado
 - ✅ Compatibilidad verificada
 
----
+----
 
-**Última actualización:** 19 de Noviembre, 2025
+**Última actualización:** 12 de Diciembre, 2025
 
 **Soporte técnico:** <yyak0423@gmail.com>
