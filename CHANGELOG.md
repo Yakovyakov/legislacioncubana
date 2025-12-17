@@ -2,6 +2,14 @@
 
 Registro de todas las versiones publicadas de Legislación Cubana.
 
+## [1.2.0] - 2025-12-17
+
+### Cambios
+
+- Cambio completo del icono de la aplicación por consideraciones legales de marca país
+- Nuevo diseño simbólico: balanza (equidad), columna dórica (estabilidad) y símbolos patrios (nación cubana)
+- Actualización de paleta de colores (#1a1a1a, #e41b17, #f2f2f2)
+
 ## [1.1.0] - 2025-12-12
 
 ### 🚀 Nuevas Características

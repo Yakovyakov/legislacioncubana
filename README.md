@@ -1,36 +1,60 @@
 # 📱 Legislación Cubana
 
-[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/yakovyakov/legislacioncubana/releases)
+[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/yakovyakov/legislacioncubana/releases)
 [![Android](https://img.shields.io/badge/Android-5.0%2B-brightgreen.svg)](https://www.android.com/)
 [![Download](https://img.shields.io/badge/Download-APK%20Latest-success.svg)](https://github.com/yakovyakov/legislacioncubana/releases/latest)
 
 Aplicación móvil oficial para acceder de forma rápida, precisa y  organizada a las normas jurídicas publicadas en la Gaceta Oficial de  Cuba. Su diseño dinámico permite buscar por múltiples campos,  facilitando el trabajo de juristas, estudiantes y ciudadanos que necesitan consultar la legislación de manera ágil y confiable.
 
-## ✨ Novedades en v1.1.0
+## ✨ Novedades en v1.2.0
 
-### 🔒 **Seguridad Fortalecida**
+### 🎨 **Nuevo Icono de la Aplicación**
+
+<div align="center">
+  <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/icon-preview.png" width="200" alt="Nuevo icono de Legislación Cubana">
+  <br>
+  <em>Nuevo icono con simbología jurídica y patriótica</em>
+</div>
+
+#### Simbología del nuevo diseño
+
+- ⚖️ **Balanza**: Representa la equidad y justeza del sistema legal cubano
+- 🏛️ **Columna dórica**: Simboliza estabilidad, fortaleza y equilibrio institucional
+- 🔴 **Triángulo con estrella**: Representación de Cuba como fiel de la balanza jurídica
+
+#### Paleta de colores
+
+| Color | Código HEX | RGB | Significado |
+|-------|------------|-----|-------------|
+| Negro | `#1a1a1a` | `26,26,26` | Seriedad y sobriedad jurídica |
+| Rojo | `#e41b17` | `228,27,23` | Representación nacional cubana |
+| Blanco | `#f2f2f2` | `242,242,242` | Pureza y claridad del derecho |
+
+> **Nota:** El cambio de icono responde a consideraciones legales relacionadas con el uso de la marca país en Cuba.
+
+### 🔒 **Seguridad Fortalecida** (Mantenido de v1.1.0)
 
 - **Verificación ECDSA** para actualizaciones OTA (reemplaza SSL Pinning)
 - Garantía de autenticidad e integridad de actualizaciones
 
-### 🎨 **Modo Oscuro Completo**
+### 🎨 **Modo Oscuro Completo** (Mantenido de v1.1.0)
 
 - Soporte completo para tema oscuro en toda la interfaz
 - Selector manual (claro/oscuro/seguir sistema)
 - Experiencia visual personalizable
 
-### ⚡ **Rendimiento Mejorado**
+### ⚡ **Rendimiento Mejorado** (Mantenido de v1.1.0)
 
 - **Optimización radical** del renderizado de documentos
 - **Listas fluidas** incluso con 90+ elementos
 - **Sin lag** en navegación y scroll
 
-### 📤 **Compartición Mejorada**
+### 📤 **Compartición Mejorada** (Mantenido de v1.1.0)
 
 - Contactos oficiales de AFBRITTO incluidos automáticamente
 - Información más útil al compartir documentos sin enlace público
 
-### 🐛 **Correcciones Importantes**
+### 🐛 **Correcciones Importantes** (Mantenido de v1.1.0)
 
 - **Solución permanente** a errores `ENOENT` en Android 11+
 - Corrección de solapamiento del teclado con campos de formulario
@@ -42,19 +66,19 @@ Aplicación móvil oficial para acceder de forma rápida, precisa y  organizada 
 
 | Pantalla | Modo Claro | Modo Oscuro |
 |:--------:|:----------:|:-----------:|
-| **Pantalla Principal** | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/screenshot-main-light.png" width="180" alt="Pantalla principal modo claro"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/screenshot-main-dark.png" width="180" alt="Pantalla principal modo oscuro"> |
-| **Resultados de Búsqueda** | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/screenshot-results-light.png" width="180" alt="Resultados modo claro"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/screenshot-results-dark.png" width="180" alt="Resultados modo oscuro"> |
-| **Card Expandida** | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/screenshot-expanded-light.png" width="180" alt="Card expandida modo claro"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/screenshot-expanded-dark.png" width="180" alt="Card expandida modo oscuro"> |
-| **Pantalla Acerca de** | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/screenshot-about-light.png" width="180" alt="Acerca de modo claro"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/screenshot-about-dark.png" width="180" alt="Acerca de modo oscuro"> |
-| **Selector de Tema** | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/screenshot-theme-selector-light.png" width="180" alt="Selector tema modo claro"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/screenshot-theme-selector-dark.png" width="180" alt="Selector tema modo oscuro"> |
-| **Actualizaciones** | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/screenshot-update-light.png" width="180" alt="Actualizaciones modo claro"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/screenshot-update-dark.png" width="180" alt="Actualizaciones modo oscuro"> 
+| **Pantalla Principal** | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-main-light.png" width="180" alt="Pantalla principal modo claro"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-main-dark.png" width="180" alt="Pantalla principal modo oscuro"> |
+| **Resultados de Búsqueda** | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-results-light.png" width="180" alt="Resultados modo claro"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-results-dark.png" width="180" alt="Resultados modo oscuro"> |
+| **Card Expandida** | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-expanded-light.png" width="180" alt="Card expandida modo claro"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-expanded-dark.png" width="180" alt="Card expandida modo oscuro"> |
+| **Pantalla Acerca de** | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-about-light.png" width="180" alt="Acerca de modo claro"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-about-dark.png" width="180" alt="Acerca de modo oscuro"> |
+| **Selector de Tema** | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-theme-selector-light.png" width="180" alt="Selector tema modo claro"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-theme-selector-dark.png" width="180" alt="Selector tema modo oscuro"> |
+| **Actualizaciones** | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-update-light.png" width="180" alt="Actualizaciones modo claro"> | <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-update-dark.png" width="180" alt="Actualizaciones modo oscuro"> 
 
 ## 📥 Descargar
 
 ### Última Versión
 
-**v1.1.0** - [Descargar APK](https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/legislacion-cubana-v1.1.0.apk)
-*(Recomendada para todos los usuarios - Actualización necesaria para seguridad)*
+**v1.2.0** - [Descargar APK](https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/legislacion-cubana-v1.2.0.apk)
+*(Recomendada para todos los usuarios - Actualización necesaria para seguridad y por consideraciones legales)*
 
 ### Versiones Anteriores
 
@@ -86,7 +110,7 @@ Aplicación móvil oficial para acceder de forma rápida, precisa y  organizada 
 
 ### 🔒 Sistema de Actualizaciones Seguro
 
-- **Verificación ECDSA** de firmas digitales (nuevo en v1.1.0)
+- **Verificación ECDSA** de firmas digitales (nuevo en v1.2.0)
 - Actualizaciones automáticas verificadas criptográficamente
 - **Almacenamiento en caché** (sin problemas de permisos en Android 11+)
 - Fallback manual si es necesario
@@ -140,9 +164,9 @@ Aplicación móvil oficial para acceder de forma rápida, precisa y  organizada 
 | **📄 PDF** | Abrir documento oficial en PDF |
 | **↗️ Compartir** | Compartir información completa |
 
-### 🛡️ Sistema Seguro v1.1.0
+### 🛡️ Sistema Seguro v1.2.0
 
-La versión 1.1.0 introduce un **nuevo sistema de verificación ECDSA**:
+La versión 1.2.0 introduce un **nuevo sistema de verificación ECDSA**:
 
 1. **Verificación criptográfica** del archivo `latest.json`
 2. **Firma digital** garantizando autenticidad
@@ -169,7 +193,7 @@ Si necesitas actualizar manualmente:
 
 ¿Encontraste un error o tienes una sugerencia?
 
-**📧 Email de Soporte:** [yyak0423@gmail.com](mailto:yyak0423@gmail.com?subject=Problema%20Legislación%20Cubana%20v1.1.0)
+**📧 Email de Soporte:** [yyak0423@gmail.com](mailto:yyak0423@gmail.com?subject=Problema%20Legislación%20Cubana%20v1.2.0)
 
 **Incluye en tu reporte:**
 
@@ -181,7 +205,7 @@ Si necesitas actualizar manualmente:
 
 ## 🔒 Seguridad
 
-### v1.1.0 - Nuevas Medidas
+### Medidas de Seguridad
 
 - **Firmas ECDSA** para verificación de actualizaciones
 - **Módulo nativo Kotlin** para operaciones criptográficas seguras
@@ -240,10 +264,10 @@ La app te notificará automáticamente. También puedes verificar manualmente en
 
 ---
 
-**📱 Legislación Cubana v1.1.0**  
-**🗓️ Fecha de Release:** 12 de Diciembre, 2025  
+**📱 Legislación Cubana v1.2.0**  
+**🗓️ Fecha de Release:** 17 de Diciembre, 2025  
 **📦 Tamaño APK:** ~20 MB  
-**🔗 Descarga:** [v1.1.0 APK](https://github.com/yakovyakov/legislacioncubana/releases/download/v1.1.0/legislacion-cubana-v1.1.0.apk)
+**🔗 Descarga:** [v1.2.0 APK](https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/legislacion-cubana-v1.2.0.apk)
 
 ---
 
